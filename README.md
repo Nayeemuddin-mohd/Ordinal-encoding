@@ -1,6 +1,3 @@
-# Ordinal-encoding
-
-
 # Ordinal numbering encoding or Label Encoding
 
 # Ordinal categorical variables
